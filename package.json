@@ -2,5 +2,14 @@
   "name": "code-js",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "12.12.0",
+    "nodemon": "2.0.22",
+    "webpack": "5.82.1",
+    "webpack-dev-server": "4.15.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.1"
+  }
 }
